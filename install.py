@@ -21,7 +21,5 @@ if wa =="1":
 if wa =="2":
    os.system("xdg-open https://www.mediafire.com/file/k4tya4lmxbxi7rb/com.termux_118.apk/file")
    os.system("python install.py")
-if wa =="4":
-   os.system("exit")
 if wa =="3":
    os.system("https://youtube.com/channel/UCTpvwoW8MDOut6wln7pRZZQ")
