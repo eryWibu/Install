@@ -5,7 +5,7 @@ from rich.panel import Panel
 os.system("clear")
 prints(Panel(f"[deep_pink3] @Creator: Ery Israndi \n Youtube : Ery Devs \n Github  : eryWibu.com"))
 
-prints(Panel(f"[deep_pink3] [1]. Install Packages \n [2]. Link Termux  \n [3]. Subscribe Youtube Ery Devs[4]. Exit"))
+prints(Panel(f"[deep_pink3] [1]. Install Packages \n [2]. Link Termux  \n [3]. Subscribe Youtube Ery Devs \n [4]. Exit"))
 
 wa = input("[?] Pilih : ")
 
